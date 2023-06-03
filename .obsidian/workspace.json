@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "bb152e4f460a254a",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ca8e8b5ded1da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1fce083242e8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aceb0922abbdbeda",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe060a0c4f22a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "683bd5c7a38a4f3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bc687e257fe2726",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74e443187eeae8bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f5799f55662fb19",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2422236f4b6c8c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "564cbcff36f67865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98d1d0e8d194fe32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5ce401e9c6e5589",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1eaa5d9c4f38d4a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "a32744a1b4dc3599",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "card-board:CardBoard": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "bf1fce083242e8ef",
+  "lastOpenFiles": [
+    "LICENSE",
+    "Journal/Quarterly/2023-Q2.md",
+    "Journal/Quarterly/Untitled.md",
+    "README.md",
+    "Images.md",
+    "Images/obsidian-base-vault-homepage.png",
+    "Homepage.md",
+    "Images",
+    "Journal/Weekly/2023/2023-W22.md",
+    "Templates/DailyNotes.md",
+    "Templates/Goals.md",
+    "Templates/Projects.md",
+    "Templates/QuarterlyNotes.md",
+    "Templates/Tasks.md",
+    "Templates/WeeklyNotes.md",
+    "Journal/Weekly/2023",
+    "Goals/initial-obsidian-vault.md",
+    "Tasks/initial-vault-setup.md",
+    "Journal/Daily/2023/2023-06-03.md",
+    "Journal/Daily/2023",
+    "RandomNotes/Obsidian.md",
+    "Projects/obsidian-base-vault.md",
+    "Projects/Example Project.md",
+    "Tasks/Example task.md",
+    "Projects",
+    "Archive",
+    "Goals",
+    "RandomNotes",
+    "Journal/Quarterly",
+    "Journal/Weekly",
+    "Journal/Daily"
+  ]
+}

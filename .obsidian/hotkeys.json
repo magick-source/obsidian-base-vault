@@ -1,0 +1,42 @@
+{
+  "obsidian-task-archiver:archive-tasks": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "A"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "D"
+    }
+  ],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "W"
+    }
+  ],
+  "periodic-notes:open-quarterly-note": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ]
+}
